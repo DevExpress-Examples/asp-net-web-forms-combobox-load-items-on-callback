@@ -2,8 +2,7 @@ Imports Microsoft.VisualBasic
 Imports System
 Imports System.Collections.Generic
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 
 Namespace ComboBoxDelayedItemLoading
 	Partial Public Class _Default

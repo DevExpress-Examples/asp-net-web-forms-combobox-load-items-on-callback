@@ -1,8 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Web.UI;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 
 namespace ComboBoxDelayedItemLoading {
     public partial class _Default : Page {
