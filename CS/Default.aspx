@@ -12,11 +12,11 @@
     <div>
         <script type="text/javascript">
             function OnDropDown(s, e) {
-    if(!s.countriesLoaded) {
-        s.countriesLoaded = true;
-        cbCountries.PerformCallback();
-    }
-}
+                if(!s.countriesLoaded) {
+                    s.countriesLoaded = true;
+                    cbCountries.PerformCallback();
+                }
+            }
         </script>
         <dxe:ASPxComboBox ID="cbCountries" runat="server" OnCallback="OnCallback" EnableIncrementalFiltering="True">
             <ClientSideEvents DropDown="OnDropDown" />
