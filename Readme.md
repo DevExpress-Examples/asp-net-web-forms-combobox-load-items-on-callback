@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Combo Box for ASP.NET Web Forms - How to load items on a callback.
+# Combo Box for ASP.NET Web Forms - How to load items on a callback
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e1426/)**
 <!-- run online end -->
