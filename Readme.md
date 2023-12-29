@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Combo Box for ASP.NET Web Forms - How to load items on a callback
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128531810/)**
-<!-- run online end -->
 
 This example shows how to load combo box items on the first click of the drop-down button.
 
